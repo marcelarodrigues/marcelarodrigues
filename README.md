@@ -8,7 +8,7 @@
 - 💾 Aprofundando os estudos em HTML/CSS e React
 - 🌎 Em transição de carreira aos 31
 - ⚡ Fun fact: amante de teatro musical
-- 💬 Me contate no marcelammsr@gmail.com
+- 💬 Me contate no <a href="https://www.linkedin.com/in/marcela-rodrigues-operacoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
 
@@ -20,12 +20,11 @@
 </div>
 -->
   
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="center" alt="Ma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ma-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <a href="https://www.linkedin.com/in/marcela-rodrigues-operacoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="right">
