@@ -1,11 +1,11 @@
 #
-<h1 style="display: inline""> Oi, eu sou Marcela Rodrigues! </h1> 
+<h1 style="display: inline""> Oi, eu sou a Marcela Rodrigues! </h1> 
 
 - 🌎 Em transição de carreira aos 31 
 - 👩🏻‍🎓 Estudante de JavaScript na <a href="https://www.alura.com.br/">Alura</a>
 - 💾 Aprofundando os estudos em HTML/CSS
 - ⚡ Fun fact: amante de teatro musical
-- 💬 Me contate no <a href="https://www.linkedin.com/in/marcela-rodrigues-operacoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 💬 Me contate no <a href="https://www.linkedin.com/in/marcela-rodrigues-operacoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
   
@@ -22,6 +22,7 @@
 <div align="right">
   <a href="https://github.com/marcelarodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelarodrigues&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>                                           
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelarodrigues&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
 
