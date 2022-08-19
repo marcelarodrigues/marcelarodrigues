@@ -4,6 +4,7 @@
 
 - 👩🏻‍🎓 Estudante de JavaScript na <a href="https://www.alura.com.br/">Alura</a>
 - 💾 Aprofundando os estudos em HTML/CSS e React
+- 🌎 Em transição de carreira aos 31
 - ⚡ Fun fact: amante de teatro musical
 - 💬 Me contate no marcelammsr@gmail.com
 
