@@ -16,13 +16,18 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+
 <br>
+
 <div align="right">
   <a href="https://github.com/marcelarodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelarodrigues&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>                                           
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelarodrigues&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
 
+
 <div> 
+
   ![Snake animation](https://github.com/marcelarodrigues/marcelarodrigues/blob/output/github-contribution-grid-snake.svg)
+
 </div>
