@@ -1,6 +1,6 @@
 #
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelarodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelarodrigues&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
 
 <h1 style="display: inline""> Oi, eu sou Marcela! </h1> 
 
@@ -29,7 +29,7 @@
 
 <div align="right">
   <a href="https://github.com/marcelarodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelarodrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelarodrigues&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
 
 <div> 
