@@ -1,9 +1,8 @@
 #
-<h1 style="display: inline""> Oi, eu sou a Marcela Rodrigues! </h1> 
+<h1 style="display: inline""> Oi, eu sou a Marcela! </h1> 
 
 - 🌎 Em transição de carreira aos 30
-- 👩🏻‍🎓 Estudante de JavaScript na <a href="https://www.alura.com.br/">Alura</a>
-- 💾 Aprofundando os estudos em HTML/CSS
+- 💾 Aprofundando os estudos em React na <a href="https://www.alura.com.br/">Alura</a>
 - ⚡ Fun fact: amante de teatro musical
 - 💬 Me contate no <a href="https://www.linkedin.com/in/marcela-rodrigues-operacoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
